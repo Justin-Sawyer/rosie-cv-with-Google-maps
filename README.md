@@ -1,45 +1,55 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome USER_NAME,
+# UCD Resume mini-project
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This mini project is to create an online resumé for Ms. Odenkirk, a full stack web developer.
 
-## Gitpod Reminders
+You can access the published project [here](https://justin-sawyer.github.io/ucd-resume/)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Languages & Technologies used:
 
-`python3 -m http.server`
+HTML
 
-A blue button should appear to click: *Make Public*,
+CSS
 
-Another blue button should appear to click: *Open Browser*.
+Git 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+GitHub 
 
-A blue button should appear to click: *Make Public*,
+GitPod 
 
-Another blue button should appear to click: *Open Browser*.
+[Bootstrap](https://getbootstrap.com/)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+[Google Fonts](https://fonts.google.com/)
 
-## Updates Since The Instructional Video
+[Font Awesome](https://fontawesome.com/)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+[hover.CSS](https://ianlunn.github.io/Hover/)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Google Dev Tools 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Credits:
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+As ever, to the [Code Institute](https://codeinstitute.net) for the tuition.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+[This little fellow](https://www.sciencephoto.com/media/1008843/view/colorectal-cancer-cell-sem) for making me see sense.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+GG for the constant presence and encouragement. You are a pearl!
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+The [Bootstrap Foundation](https://getbootstrap.com/) for the framework.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Testing and Deployment:
 
---------
+This project was built in GitPod and GitHub. It was tested using Google Chrome Dev Tools, the W3C HTML validator and the W3C CSS validator
 
-Happy coding!
+You can clone and deploy this in your GitHub Desktop application by following these steps:
+
+Navigate to this [repository](https://github.com/Justin-Sawyer/ucd-resume)
+
+Click the green "Code" button
+
+Click "Open with GitHub Desktop"
+
+Follow the prompts in the GitHub Desktop application.
+
+## I hope you enjoy this project!
