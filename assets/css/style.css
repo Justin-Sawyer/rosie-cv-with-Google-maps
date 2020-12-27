@@ -384,6 +384,18 @@ button[type=submit] {
 
 /* ./contact form */
 
+/* Map */
+
+/*#map {
+    height: 350px;
+}*/
+
+div#map {
+    min-height: 360px;
+}
+
+/* ./map */
+
 /* Media queries */
 
 @media(min-width: 992px) {
