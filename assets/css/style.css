@@ -37,6 +37,17 @@
 .ui-menu-color-download {
     background-color: #525252;
 }
+<<<<<<< HEAD
+=======
+
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+>>>>>>> 3af776cb129ac643165bf9f2e4ed3f749437878b
 /* ./colours */
 
 /* General paddings margins & text */
@@ -376,6 +387,21 @@ button[type=submit] {
 
 /* ./contact form */
 
+<<<<<<< HEAD
+=======
+/* Map */
+
+/*#map {
+    height: 350px;
+}*/
+
+div#map {
+    min-height: 360px;
+}
+
+/* ./map */
+
+>>>>>>> 3af776cb129ac643165bf9f2e4ed3f749437878b
 /* Media queries */
 
 @media(min-width: 992px) {
